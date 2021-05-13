@@ -1,0 +1,28 @@
+.Header{
+    background-color: maroon;
+}
+.head{
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.logo{
+    margin-left: 20px;
+    width:75px;
+}
+.topic{
+    color: white;
+    text-align: center;
+}
+.topic2{
+    text-align: center;
+}
+th{
+    font-weight: 400;
+    width: 450px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main{
+    font-weight: 800;
+}
